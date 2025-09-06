@@ -1,9 +1,8 @@
-# Practice
-# 👨‍💻 Cybersecurity Analyst Portfolio – Joseph Idowu Odeyemi
+# I'm Joseph Idowu A. Odeyemi
 
-Welcome to my professional GitHub repository! I'm Joseph Idowu Odeyemi, a Cybersecurity Analyst with a passion for ethical technology, digital forensics, and community empowerment. This space highlights my technical skills, certifications, tools, and projects across cybersecurity domains including network defense, cloud security, endpoint protection, and SIEM operations.
+Welcome to my professional GitHub repository! I'm Joseph Idowu A. Odeyemi, a Cybersecurity Analyst with a passion for ethical technology, digital forensics, and community empowerment. This space highlights my technical skills, certifications, tools, and projects across cybersecurity domains including network defense, cloud security, endpoint protection, and SIEM operations.
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/idowu-odeyemi-228029b9)
 
 ---
 
