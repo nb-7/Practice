@@ -1,4 +1,4 @@
-# I'm Joseph Idowu A. Odeyemi
+# I'm Idowu A.J. Odeyemi
 
 Welcome to my professional GitHub repository! I'm Joseph Idowu A. Odeyemi, a Cybersecurity Analyst with a passion for ethical technology, digital forensics, and community empowerment. This space highlights my technical skills, certifications, tools, and projects across cybersecurity domains including network defense, cloud security, endpoint protection, and SIEM operations.
 
@@ -6,13 +6,13 @@ Welcome to my professional GitHub repository! I'm Joseph Idowu A. Odeyemi, a Cyb
 
 ---
 
-## 📌 Objective
+## Objective
 
 To leverage cybersecurity principles, digital literacy, and ethical stewardship to protect systems, educate communities, and empower youth through technical and spiritual integration. My goal is to build resilient infrastructures and foster inclusive digital environments across educational and community platforms.
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 - Threat Detection & Incident Response  
 - Vulnerability Assessment & Risk Management  
@@ -28,7 +28,7 @@ To leverage cybersecurity principles, digital literacy, and ethical stewardship 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Category         | Tools / Platforms                                      |
 |------------------|--------------------------------------------------------|
