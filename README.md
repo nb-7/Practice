@@ -89,7 +89,7 @@ To leverage cybersecurity principles, digital literacy, and ethical stewardship 
 If you're interested in collaboration, mentorship, or community training, feel free to reach out:
 
 📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)  
+🔗 LinkedIn: (https://www.linkedin.com/in/idowu-odeyemi-228029b9)
 📍 Location: Zorzor City, Lofa County, Liberia  
 
 ---
